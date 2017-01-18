@@ -1,7 +1,7 @@
 
 
 #set working directory
-setwd("/Users/nadinekhattak/Desktop/edaweek4/New Folder 2")
+setwd("")
 
 #use dplyr and ggplot2 package
 library(dplyr)

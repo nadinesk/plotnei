@@ -3,7 +3,7 @@
 library(dplyr)
 
 #set working directory
-setwd("/Users/nadinekhattak/Desktop/edaweek4/New Folder 2")
+setwd("")
 
 #read in data
 NEI <- readRDS("summarySCC_PM25.rds")
